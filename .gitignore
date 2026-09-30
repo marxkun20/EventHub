@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+serviceAccountKey.json
+firebase-service-account*.json
+
+# Node
+node_modules/
+dist/
+
+# Flutter
+mobile/build/
+mobile/.dart_tool/
+
+# System
+.DS_Store
+Thumbs.db
